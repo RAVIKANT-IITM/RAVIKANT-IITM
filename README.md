@@ -52,17 +52,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAVIKANT-IITM&show_icons=true&theme=default&hide_border=true" alt="Ravi Kant's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAVIKANT-IITM&hide_border=true" alt="Ravi Kant's GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAVIKANT-IITM&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
-
 ---
 
 <p align="center"><i>⚡ Building things at the intersection of hardware and software.</i></p>
