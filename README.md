@@ -13,13 +13,7 @@
 
 ---
 
-<p align="center">
-  <img src="assets/maze_solver.svg" width="500" alt="Animated robot solving a maze"/>
-</p>
 
-<p align="center"><i>🧠 A little robot navigating a maze on an endless loop — because that's basically what embedded debugging feels like.</i></p>
-
----
 
 ### 👨‍💻 About Me
 
