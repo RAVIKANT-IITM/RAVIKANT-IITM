@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ravi Kant 👋</h1>
+<h1 align="center">Hi there, I'm RaviKant 👋</h1>
 
 <h3 align="center">🎓 BS in Electronic Systems @ IIT Madras | 🔧 PCB & Embedded Systems Developer | 🚀 IoT, Robotics & Hardware Prototyping</h3>
 
